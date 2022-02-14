@@ -14,7 +14,7 @@
   "author": "Blake Dykes",
   "license": "GPL-3.0",
   "engines": {
-    "node": "14.x"
+    "node": "14.16.1"
   },
   "bugs": {
     "url": "https://github.com/BlakeDykes/hearthin-around/issues"
