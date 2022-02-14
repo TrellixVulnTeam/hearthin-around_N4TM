@@ -1,0 +1,23 @@
+{
+  "name": "hearthin-around",
+  "version": "1.0.0",
+  "description": "app using the hearthstone API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd client && npm start && cd server && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlakeDykes/hearthin-around.git"
+  },
+  "author": "Blake Dykes",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": "14.x"
+  },
+  "bugs": {
+    "url": "https://github.com/BlakeDykes/hearthin-around/issues"
+  },
+  "homepage": "https://github.com/BlakeDykes/hearthin-around#readme"
+}
