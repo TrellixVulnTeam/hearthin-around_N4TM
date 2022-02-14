@@ -1,12 +1,11 @@
 {
-  "name": "Portfolio",
+  "name": "hearthin-around",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm rebuild && node ./index.js",
-    "build": "cd client && npm rebuild && npm start"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Blake Dykes",
